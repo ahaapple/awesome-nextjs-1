@@ -211,6 +211,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Orama](https://docs.oramasearch.com/) - Orama is a powerful full-text search engine that works both on client and server.
 - [Algolia](https://www.algolia.com) - Enable search infrastructure with real-time results for websites and mobile applications.
 - [Meilisearch](https://www.meilisearch.com) - The Meilisearch is a lightning-fast search API that seamlessly integrates with any framework, website, and workflow.
+- [MemFree](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ## Nextjs based Template
 
